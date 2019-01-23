@@ -2,10 +2,10 @@
   "manifest_version": 2,
   "name": "Eyfo",
   "description": "Github Package finder - Chrome extension",
-  "version": "1.0.2",
+  "version": "1.0.2"
   "browser_action": {
     "default_popup": "index.html?app",
-    "default_title": "Search Packages"
+    "default_title": "Eyfo - Search Packages"
   },
   "icons": {
     "16": "/assets/eyfo.png",
